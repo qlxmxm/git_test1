@@ -1,3 +1,4 @@
 team: Python
 manager: Melody
 members: AnnaYangChae 
+friend: Pochaco
